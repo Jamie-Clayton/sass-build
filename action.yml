@@ -72,7 +72,7 @@ inputs:
 
 
 runs:
-  using: 'node12'
+  using: 'node18'
   main: 'index.js'
 
 
